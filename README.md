@@ -87,4 +87,10 @@ Apply dimensionality reduction (PCA/t-SNE) before clustering.
 
 Experiment with other clustering models (Gaussian Mixture Models, OPTICS).
 
+
 Automate evaluation metric comparison for all models.
+
+
+APP LINK :https://huggingface.co/spaces/srimidhuna/customer_segmentation
+username:admin 
+password:123
